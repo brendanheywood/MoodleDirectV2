@@ -28,7 +28,7 @@ require_once($CFG->dirroot.'/plagiarism/lib.php');
 require_once($CFG->dirroot.'/plagiarism/turnitin/lib.php');
 require_once($CFG->dirroot.'/mod/turnitintooltwo/lib.php');
 require_once($CFG->dirroot.'/lib/pluginlib.php');
-
+require_once($CFG->dirroot.'/lib/gradelib.php');
 require_once($CFG->dirroot.'/mod/turnitintooltwo/turnitintooltwo_view.class.php');
 require_once("turnitinplugin_view.class.php");
 
